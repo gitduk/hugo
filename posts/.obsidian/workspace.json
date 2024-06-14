@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "86fcd84d8ca0cf5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8fe3857137a53fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "575bb41ec59e3c11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TiDB-单机部署.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bfa2be08d67e406",
+    "type": "split",
+    "children": [
+      {
+        "id": "536d03f3f42c9f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f32ba6be65d4d553",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "b52dd1ef62b3dec0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56a50a04a74a442d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9b137666e81b96f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4b7017f9788a0d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "321b0f61659bd9a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b70aa17b45f04971",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TiDB-单机部署.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "450efa5e5318ccd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TiDB-单机部署.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "919c7a5ef419316f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TiDB-单机部署.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "575bb41ec59e3c11",
+  "lastOpenFiles": [
+    "Es-单字段搜索相关度排序.md",
+    "TiDB-单机部署.md",
+    "TiDB-在线配置修改.md",
+    "ES-索引导出.md",
+    "redhat-安装显卡驱动.md",
+    "todo.md",
+    "Python-异步更新-mysql-数据库-asyncio-aiomysql.md",
+    "sed-命令使用记录.md",
+    "人体调优总结.md",
+    "Rust-reqwest-同步客户端.md",
+    "Rust-操作-mysql-数据库.md",
+    "TIKV-内存占用过高排查.md",
+    "Rust-代码片段.md",
+    "leetcode-n9.md",
+    "TiDB-用户管理.md",
+    "TiDB-扩容.md",
+    "TiDB-错误排查.md",
+    "linux-双网卡做-bond0.md",
+    "leetcode-n1.md",
+    "ES-数据导入之-logstash.md",
+    "ES-集群恢复.md",
+    "TiDB-Lightning-基础使用.md",
+    "TiDB-多物理机集群部署.md",
+    "使用-https-访问-alist.md",
+    "Hugo-搭建个人博客.md",
+    "TiDB-快照恢复.md",
+    "Untitled.canvas",
+    "Untitled"
+  ]
+}
